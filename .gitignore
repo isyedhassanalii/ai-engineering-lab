@@ -11,3 +11,7 @@ wheels/
 
 # Environment variables / secrets
 .env
+
+# Personal notes
+LEARNING_PLAN.md
+/README.md
