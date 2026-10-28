@@ -1,8 +1,7 @@
 [project]
-name = "day1"
+name = "llm-api-basics"
 version = "0.1.0"
-description = "Add your description here"
-readme = "README.md"
+description = "First LLM API call using Groq"
 requires-python = ">=3.11"
 dependencies = [
     "groq>=1.7.0",

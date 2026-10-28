@@ -1,0 +1,9 @@
+[project]
+name = "tokens-and-usage"
+version = "0.1.0"
+description = "Token usage, max_tokens and finish_reason using Groq"
+requires-python = ">=3.11"
+dependencies = [
+    "groq>=1.7.0",
+    "python-dotenv>=1.2.4",
+]
